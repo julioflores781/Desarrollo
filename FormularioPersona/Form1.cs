@@ -49,6 +49,8 @@ namespace FormularioPersona
         private void BTElimina_Click(object sender, EventArgs e)
         {
             //Cambios por error en la solucion
+
+            //Nuevo
             EliminaPersona();
             limpiarCampos();
         }
