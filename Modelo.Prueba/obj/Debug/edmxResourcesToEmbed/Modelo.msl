@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JFloresDBModelStoreContainer" CdmEntityContainer="DBEntitiesPrueba">
+    <EntitySetMapping Name="Persona">
+      <EntityTypeMapping TypeName="IsTypeOf(JFloresDBModel.Persona)">
+        <MappingFragment StoreEntitySet="Persona">
+          <ScalarProperty Name="codigo_personal" ColumnName="codigo_personal" />
+          <ScalarProperty Name="documento" ColumnName="documento" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido1" ColumnName="apellido1" />
+          <ScalarProperty Name="activo_sn" ColumnName="activo_sn" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="fecha_creacion" ColumnName="fecha_creacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="JFloresDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="JFloresDBModelStoreContainer">
+    <EntitySet Name="Persona" EntityType="JFloresDBModel.Store.Persona" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="codigo_personal" />
+    </Key>
+    <Property Name="codigo_personal" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="documento" Type="varchar" Nullable="true" MaxLength="30" />
+    <Property Name="nombre" Type="varchar" Nullable="true" MaxLength="30" />
+    <Property Name="apellido1" Type="varchar" Nullable="true" MaxLength="50" />
+    <Property Name="activo_sn" Type="smallint" Nullable="true" />
+    <Property Name="telefono" Type="varchar" Nullable="true" MaxLength="20" />
+    <Property Name="fecha_creacion" Type="datetime" Nullable="true" />
+  </EntityType>
+</Schema>
