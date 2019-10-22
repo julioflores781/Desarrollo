@@ -9,3 +9,13 @@ C:\Users\Julio Flores\Desktop\Nueva carpeta\VStudio\PruebaWE\Modelo.Prueba\obj\D
 C:\Users\Julio Flores\Desktop\Nueva carpeta\VStudio\PruebaWE\Modelo.Prueba\obj\Debug\Modelo.Prueba.pdb
 C:\Users\Julio Flores\Desktop\Nueva carpeta\VStudio\PruebaWE\Modelo.Prueba\obj\Debug\Modelo.Prueba.csprojAssemblyReference.cache
 C:\Users\Julio Flores\Desktop\Nueva carpeta\VStudio\PruebaWE\Modelo.Prueba\obj\Debug\Modelo.Prueba.csproj.CopyComplete
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\Modelo.Prueba.dll.config
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\Modelo.Prueba.dll
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\Modelo.Prueba.pdb
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\EntityFramework.dll
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\EntityFramework.xml
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\obj\Debug\Modelo.Prueba.csprojResolveAssemblyReference.cache
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\obj\Debug\Modelo.Prueba.dll
+C:\Users\Julio Flores\Desktop\Nueva carpeta\UltimoRepoApi\Modelo.Prueba\obj\Debug\Modelo.Prueba.pdb
